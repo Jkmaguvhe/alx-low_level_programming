@@ -2,11 +2,11 @@
 
 /**
  * _isdigit - check if a character is a digit
- * @X: The number to be checked
+ * @x: The number to be checked
  * Return: 1 for a character that will be a digit or 0 for any else
  */
 
-int _isdigit(int c)
+int _isdigit(int x)
 
 {
 
